@@ -1,5 +1,5 @@
 # Exercise-05c-LightsAndMaterials
-
+Added randomly moving enemy and player that is able to click to destroy the enemy.
 
 ## Implementation
 
@@ -8,4 +8,4 @@
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Angela Tan
